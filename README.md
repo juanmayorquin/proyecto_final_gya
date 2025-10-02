@@ -1,12 +1,18 @@
-# Proyecto GyA
+# Ejercicio ETL Pruebas Saber Pro 2022
+
+## Integrantes
+- Sarah Lucía Mora Sabogal
+- Juan José Mayorquín Cabrera
+- Luis Hernesto Marín Uribe
+- Manuela Cardona Betancourth
 
 Este proyecto contiene un flujo de análisis y visualización de datos utilizando **PostgreSQL**, **Python (Jupyter Notebook)** y **Power BI**.
 
 ## Estructura del proyecto
 
-* **content/**
+* **content/** (Debe crearse esta ruta)
 
-  * `filtrado_2022.csv` → Dataset original. (Debe crearse y añadirse el archivo)
+  * `filtrado_2022.csv` → Dataset original. (Añadirse el archivo)
 * **docker-compose.yml** → Configuración del contenedor con PostgreSQL.
 * **ProyectoGyA.ipynb** → Notebook principal de análisis en Python.
 * **GyA_Dashboard.pbix** → Dashboard de Power BI.
